@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Книга саме для тебе</title>
+
+	
+</head>
+<body style="background-color: NavajoWhite; font-family: sans-serif;">
+ 
+     <header>
+     	<a href="#katalog">Каталог</a>
+	<a href="#rider">Чому важливо читати книги?</a>
+     	 <h1 style="text-align:center;color:Tomato;">
+  <img src="https://balka-book.com/files/2022/11_02/16_48/files_topic_36_478.jpg"/><br>
+         Книга саме для тебе</h1>
+          <h2 style="color:green;text-align:center;">Нелюбиш читати? Не проблема. Після одної із цих книг ти закохаєшся в читаня.
+     </header>
+         <main>
+         	<h1 style="text-align:center;font-size: 20px">
+         		<h1 id="rider" style="text-align:center;color:Tomato;">Чому важливо читати книги?</h1>
+         		<b><i><p style="color:OrangeRed">
+         			Нині саме час дочитати книжку, яка так довго лежала в шухляді, подивитися цікавий фільм, на який не вистачало часу, або ж відточити кулінарні навички.</p>
+
+<p style="color:OrangeRed">Насправді в наш час люди читають дуже багато – незліченні повідомлення, стрічка новин нон-стоп, улюблені блоги в Інтернеті... Але книги ніщо не замінить. Про користь читання книжок говорити у 21 столітті зайве, але ми згадаємо американську експертку Жордін Кормьєр, яка виділяє чотири безсумнівні переваги читання книг:</p>
+
+<p style="color:OrangeRed">1.Читання книг стимулює розумову діяльність людини, покращує пам'ять і підвищує творчий потенціал. Книжка може надихнути на створення проєктів, ідей або отримання будь-якого іншого цінного досвіду.</p>
+<p style="color:OrangeRed">2.Читання допомагає розширити словниковий запас і підвищити інтелектуальний рівень. Відчуваючи себе компетентним   у різних питаннях, людина стає більш впевненою у своїх силах і підготовленою до будь-яких життєвих викликів.</p>
+<p style="color:OrangeRed">3.Читання книг розвиває соціальні навички і здатність до співпереживання. Занурюючись в незнайомі ситуації і знайомлячись з різними персонажами на сторінках книг, людина розширює рамки власних поглядів і починає краще розуміти інших людей.</p>
+<p style="color:OrangeRed">Читання – це своєрідна форма релаксації, яка допомагає боротися зі стресом і поганим настроєм. Книга здатна одночасно і активізувати мислення, і розслабити, відволікти від проблем. Також читання – це прекрасний спосіб психологічного омолодження.
+         		</p></i></b>
+             <table id="katalog" style="color:blue;border:2px solid green; border-collapse:collapse;font-size: 20px ;">
+
+                 <tr style="color:lightblue;border:2px solid green">
+                     <td>Автор </td>
+                     <td>Назва </td>
+                     <td>Вартість </td>
+                     <td>Посилання </td>
+                     <td>Обкладинка </td>
+
+                 </tr>
+                 <tr style="border:2px solid green">
+                     <td>Наталія Щерба </td>
+                     <td>Часодії(Часовий ключ) </td>
+                     <td>1919 </td>
+                     <td><a href="https://rozetka.com.ua/90421964/p90421964/">Скачати</a></td>
+                     <td> <img src="https://content.rozetka.com.ua/goods/images/big/181019561.jpg" width="60px" /></td>
+                 </tr>
+                                      <tr style="border:2px solid green">
+                     <td> Наталія Щерба</td>
+                     <td> Часодії(Часове серце)</td>
+                     <td> 1919</td>
+                      <td><a href="https://rozetka.com.ua/90421964/p90421964/">Скачати</a></td>
+                     <td> <img src="https://content1.rozetka.com.ua/goods/images/big/8600644.jpg" width="60px"/></td>
+
+                 </tr>
+                                      <tr style="border:2px solid green">
+                     <td> Наталія Щерба</td>
+                     <td> Часодії(Часове ім'я)</td>
+                     <td>1919 </td>
+                      <td><a href="https://rozetka.com.ua/90421964/p90421964/">Скачати</a></td>
+                     <td> <img src="https://content2.rozetka.com.ua/goods/images/big/8595418.jpg" width="60px"/></td>
+                 </tr>
+                                      <tr style="border:2px solid green">
+                     <td> Наталія Щерба</td>
+                     <td> Часодії(Часова вежа)</td>
+                     <td>1919 </td>
+                      <td><a href="https://rozetka.com.ua/90421964/p90421964/">Скачати</a></td>
+                     <td> <img src="https://content1.rozetka.com.ua/goods/images/big/8598795.jpg" width="60px"/></td>
+                 </tr>
+                                      <tr style="border:2px solid green">
+                     <td> Наталія Щерба</td>
+                     <td> Часодії(Часограма)</td>
+                     <td> 1919</td>
+                      <td><a href="https://rozetka.com.ua/90421964/p90421964/">Скачати</a></td>
+                     <td> <img src="https://content1.rozetka.com.ua/goods/images/big/8596594.jpg" width="60px"/></td>
+                 </tr>
+                                      <tr style="border:2px solid green">
+                     <td> Антуан Доле</td>
+                     <td>Крута Адель. Том 1.
+                          Це добром не скінчиться </td>
+                     <td>150 </td>
+                      <td><a href="https://www.ranok.com.ua/info-tse-dobrom-ne-skinchitsya-kruta-adel-32370.html">Скачати</a></td>
+                     <td> <img src="https://www.ranok.com.ua/storage/cache/data/009110-400-552.jpg" width="60px"/></td>
+                 </tr>
+                                      <tr style="border:2px solid green">
+                     <td> Антуан Доле</td>
+                     <td>Крута Адель. Том 2.
+                         Жах — це інші </td>
+                     <td>150 </td>
+                      <td><a href="https://www.ranok.com.ua/info-tse-dobrom-ne-skinchitsya-kruta-adel-32370.html">Скачати</a></td>
+                     <td> <img src="https://www.ranok.com.ua/storage/cache/data/009111-400-552.jpg" width="60px"/></td>
+                 </tr>
+                                      <tr style="border:2px solid green">
+                     <td> Антуан Доле</td>
+                     <td> Крута Адель. Том 3. 
+                         Ненавиджу кохання!</td>
+                     <td> 150</td>
+                      <td><a href="https://www.ranok.com.ua/info-tse-dobrom-ne-skinchitsya-kruta-adel-32370.html">Скачати</a></td>
+                     <td> <img src="https://www.ranok.com.ua/storage/cache/data/009112-400-552.jpg" width="60px"/></td>
+                 </tr>
+                                      <tr style="border:2px solid green">
+                     <td> Антуан Доле</td>
+                     <td>Крута Адель. Том 4.
+                          Це не я! </td>
+                     <td> 150</td>
+                      <td><a href="https://www.ranok.com.ua/info-tse-dobrom-ne-skinchitsya-kruta-adel-32370.html">Скачати</a></td>
+                     <td> <img src="https://www.ranok.com.ua/storage/cache/data/009113-400-552.jpg" width="60px"/></td>
+                 </tr>
+                                      <tr style="border:2px solid green">
+                                     
+                     <td>Антуан Доле </td>
+                     <td> Крута Адель. Том 5. 
+                         Геть з дороги, нікчеми!</td>
+                     <td>150 </td>
+                      <td><a href="https://www.ranok.com.ua/info-tse-dobrom-ne-skinchitsya-kruta-adel-32370.html">Скачати</a></td>
+                     <td> <img src="https://www.ranok.com.ua/storage/cache/data/009114-400-552.jpg" width="60px"/></td>
+                 </tr>
+                            <tr style="border:2px solid green">
+                     <td>Антуан Доле </td>
+                     <td>Крута Адель. Том 6.
+                          Страшенний талант </td>
+                     <td> 150</td>
+                      <td><a href="https://www.ranok.com.ua/info-tse-dobrom-ne-skinchitsya-kruta-adel-32370.html">Скачати</a></td>
+                     <td> <img src="https://www.ranok.com.ua/storage/cache/data/009115-400-552.jpg" width="60px"/></td>
+                 </tr> 
+                                      <tr style="border:2px solid green">
+                     <td> Антуан Доле</td>
+                     <td>Крута Адель. Том 7.
+                          Жодної пощади невдахам </td>
+                     <td>150 </td>
+                      <td><a href="https://www.ranok.com.ua/info-tse-dobrom-ne-skinchitsya-kruta-adel-32370.html">Скачати</a></td>
+                     <td> <img src="https://www.ranok.com.ua/storage/cache/data/010089-400-552.jpg" width="60px"/></td>
+                 </tr>
+                                      <tr style="border:2px solid green">
+                     <td> Дж. К. Роллинг </td>
+                     <td>Гаррі Поттер і
+                          філософський камінь  </td>
+                     <td> 320</td>
+                      <td><a href="https://store.ababahalamaha.com.ua/harry-potter-series">Скачати</a></td>
+                     <td> <img src="https://s.ababahalamaha.com.ua/images/800x800/super_coverhp2.jpg" width="60px"/></td>
+                 </tr>
+                                      <tr style="border:2px solid green">
+                     <td> Дж. К. Роллинг </td>
+                     <td>Гаррі Поттер і 
+                         таємна кімната </td>
+                     <td>320 </td>
+                      <td><a href="https://store.ababahalamaha.com.ua/harry-potter-series">Скачати</a></td>
+                     <td> <img src="https://s.ababahalamaha.com.ua/images/800x800/harry_potter_and_the_chamber_of_secrets__hp2__cover-uk.jpg" width="60px"/></td>
+                 </tr>
+                                      <tr style="border:2px solid green">
+                     <td> Дж. К. Роллинг </td>
+                     <td>Гаррі Поттер і 
+                         в'язень Азкабану </td>
+                     <td>320 </td>
+                      <td><a href="https://store.ababahalamaha.com.ua/harry-potter-series">Скачати</a></td>
+                     <td> <img src="https://s.ababahalamaha.com.ua/images/800x800/harry_potter_and_the_prisoner_of_azkaban__hp3__cover-uk.jpg" width="60px"/></td>
+                 </tr>
+                                      <tr style="border:2px solid green">
+                     <td>Дж. К. Роллинг  </td>
+                     <td> Книга Гарри Поттер и 
+                         кубок огня</td>
+                     <td> 320</td>
+                      <td><a href="https://store.ababahalamaha.com.ua/harry-potter-series">Скачати</a></td>
+                     <td ><img src="https://s.ababahalamaha.com.ua/images/800x800/harry_potter_and_the_goblet_of_fire__hp4__cover-uk.jpg" width="60px"/></td>
+                 </tr>
+                                          <tr style="border:2px solid green">
+                     <td>Дж. К. Роллинг  </td>
+                     <td>Гарри Поттер и
+                          Орден Феникса</td>
+                     <td> 320</td>
+                      <td><a href="https://store.ababahalamaha.com.ua/harry-potter-series">Скачати</a></td>
+                     <td> <img src="https://s.ababahalamaha.com.ua/images/800x800/harry_potter_and_the_order_of_the_phoenix__hp5__cover-uk.jpg" width="60px"/></td>
+                 </tr>
+                  
+                                          <tr style="border:2px solid green">
+                     <td>Дж. К. Роллинг  </td>
+                     <td>Книга Гарри Поттер и
+                          Принц-полукровка </td>
+                     <td>320 </td>
+                      <td><a href="https://store.ababahalamaha.com.ua/harry-potter-series">Скачати</a></td>
+                     <td> <img src="https://s.ababahalamaha.com.ua/images/800x800/harry_potter_and_the_half-blood_prince__hp6__cover-uk.jpg" width="60px"/></td>
+                 </tr>
+                 
+                                          <tr style="border:2px solid green">
+                     <td>Дж. К. Роллинг  </td>
+                     <td>Гарри Поттер и 
+                         Дары Смерти  </td>
+                     <td>380 </td>
+                      <td><a href="https://store.ababahalamaha.com.ua/harry-potter-series">Скачати</a></td>
+                     <td> <img src="https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/66852969-2d21-45de-bae1-62ec7760f756/600x900" width="60px"/></td>
+                 </tr>
+                   
+                                          <tr style="border:2px solid green">
+                     <td>Дж. К. Роллинг  </td>
+                     <td> Гарри Поттер и
+                          проклятое дитя</td>
+                     <td>380 </td>
+                      <td><a href="https://store.ababahalamaha.com.ua/harry-potter-series">Скачати</a></td>
+                     <td> <img src="https://images.prom.ua/4086096211_roling-garri.jpg" width="60px"/></td>
+                 </tr>
+            </table></h1>
+                                                                           
+                                    
+                                    
+
+                     
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 
+
+         <main/>
+         <footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             
+         <footer/>
+        
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
